@@ -14,8 +14,10 @@ The dashboard is designed to support data‑driven decision‑making by providin
 
 ## Business Problem
 **Scenario**
+
 I have been engaged as a Business Intelligence Analyst to design an advanced Power BI solution for an online retail company (TATA) operating across multiple countries. The company sells a wide variety of consumer products and records transaction-level sales data. Senior management wants a data‑driven analytical dashboard to understand performance, identify trends and risks, and uncover growth opportunities.
 **Problem Statement**
+
 Despite having large volumes of transactional sales data, management lacks an analytical view of sales performance across products, customers, time periods, and countries. Senior management is unable to easily identify sales trends, top‑performing products, high‑value customers, or regions contributing most to revenue, which limits strategic planning and performance monitoring.
 
 ## Dataset Description
